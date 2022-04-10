@@ -1,6 +1,8 @@
-[![Masterhead](https://tenor.com/bk1Rx.gif)](https://tenor.com/view/anime-boy-snowy-smile-grateful-gif-17366037)
+[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLSMw/XBBPCXG8FHI/AAAAAAAAMT4/u0albpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGASYHQ/s1600/2000_600px.gif)](https://rishavchanda.io)
+
 <h1 align="center">Hi 👋 I'm Mark Anthony Tomas</h1>
 <h3 align="center">An aspiring frontend developer and software engineer in the future from Philippines!</h3>
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 
 <img src="https://komarev.com/ghpvc/?username=aanthonytomass&label=Profile%20views&color=0e75b6&style=flat" alt="aanthonytomass" /> </p>
