@@ -1,4 +1,4 @@
-[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOalbpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)(https://rishavchanda.io)
+[![MasterHead](https://twitter.com/aanthonytomass/header_photo)](https://twitter.com/aanthonytomass/header_photo)
 
 <h1 align="center">Hi 👋 I'm Mark Anthony Tomas</h1>
 <h3 align="center">An aspiring frontend developer and software engineer in the future from Philippines!</h3>
