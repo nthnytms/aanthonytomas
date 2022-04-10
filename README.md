@@ -1,4 +1,4 @@
-[![Masterhead](https://tenor.com/view/anime-boy-snowy-smile-grateful-gif-17366037)]
+[![Masterhead](https://tenor.com/view/anime-boy-snowy-smile-grateful-gif-17366037)](https://tenor.com/view/anime-boy-snowy-smile-grateful-gif-17366037)
 <h1 align="center">Hi 👋 I'm Mark Anthony Tomas</h1>
 <h3 align="center">An aspiring frontend developer and software engineer in the future from Philippines!</h3>
 
