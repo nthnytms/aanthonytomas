@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Mark Anthony Tomas</h1>
+<h1 align="center">Hi 👋 I'm Mark Anthony Tomas</h1>
 <h3 align="center">An aspiring frontend developer and software engineer in the future from Philippines!</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aanthonytomass&label=Profile%20views&color=0e75b6&style=flat" alt="aanthonytomass" /> </p>
