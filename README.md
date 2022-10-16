@@ -1,4 +1,4 @@
-<center> <h2> Aspiring Software Engineer and Full Stack Developer from the Philippines </h2> </center>
+<center> <h3> Aspiring Software Engineer and Full Stack Developer from the Philippines </h3> </center>
 
 <div align="center"> 
 <i>Random dev joke for you!</i></br></br>
