@@ -1,4 +1,4 @@
-<center> <h1> &nbsb; Aspiring Software Engineer and Full Stack Developer </h1> </center>
+<h1> {text-align: center;}  Aspiring Software Engineer and Full Stack Developer </h1> 
 
 <div align="center"> 
 <i>Random dev joke for you!</i></br></br>
