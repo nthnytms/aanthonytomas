@@ -9,7 +9,6 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aanthonytomass" alt="aanthonytomass" /></a> </p>
 
-<img align="right" alt="Coding" width="380" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 <p align="left"> <a href="https://twitter.com/aanthonytomas" target="blank"><img src="https://img.shields.io/twitter/follow/aanthonytomas?logo=twitter&style=for-the-badge" alt="aanthonytomas" /></a> </p>
 
 ###  Watch my Contribution Graph get eaten by the snake 
@@ -19,6 +18,8 @@
 - 🌱 I’m currently learning **C++, HTML, C, Java, SQL & JavaScript**
 
 - 📫 How to reach me **markanthony.garciatomas@gmail.com**
+- 
+<img align="right" alt="Coding" width="380" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
