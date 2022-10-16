@@ -13,7 +13,7 @@
 <p align="left"> <a href="https://twitter.com/aanthonytomas" target="blank"><img src="https://img.shields.io/twitter/follow/aanthonytomas?logo=twitter&style=for-the-badge" alt="aanthonytomas" /></a> </p>
 
 
-- 🌱 I’m currently learning **C++, HTML, C, Java, C# & JavaScript**
+- 🌱 I’m currently learning **C++, HTML, C, Java, SQL & JavaScript**
 
 - 📫 How to reach me **markanthony.garciatomas@gmail.com**
 
