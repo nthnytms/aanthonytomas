@@ -1,4 +1,4 @@
-![HEY, I'M MARK ANTHONY](https://user-images.githubusercontent.com/58532023/170814848-fa7f525a-c9ee-4383-918d-addad0f25669.svg)
+<center> <h1> I'm aspiring Software Engineer and Full Stack Developer from the Philippines </h1> </center>
 
 <div align="center"> 
 <i>Random dev joke for you!</i></br></br>
