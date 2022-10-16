@@ -12,7 +12,7 @@
 <p align="left"> <a href="https://twitter.com/aanthonytomas" target="blank"><img src="https://img.shields.io/twitter/follow/aanthonytomas?logo=twitter&style=for-the-badge" alt="aanthonytomas" /></a> </p>
 
 
-                    ###  Watch my Contribution Graph get eaten by the snake 
+<p>  Watch my Contribution Graph get eaten by the snake </p> 
 ![snake gif](https://raw.githubusercontent.com/akshaynarisetti/akshaynarisetti/output/github-contribution-grid-snake.svg)
 
 <img align="right" alt="Coding" width="380" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
