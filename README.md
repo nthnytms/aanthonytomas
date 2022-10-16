@@ -6,7 +6,7 @@
 </div>
 
 ### Watch my Contribution Graph get eaten by the snake 🥳
-![snake gif](https://raw.githubusercontent.com/aanthonytomas/aanthonytomas/output/github-contribution-grid-snake.svg)
+![snake gif](https://raw.githubusercontent.com/akshaynarisetti/akshaynarisetti/output/github-contribution-grid-snake.svg)
 
 <a><h2>Stats</h2></a>
 <div>
