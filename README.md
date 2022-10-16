@@ -1,7 +1,7 @@
 ![](https://twitter.com/aanthonytomass/header_photo)
 
 <h1 align="center">Hi 👋 I'm Mark Anthony Tomas</h1>
-<h3 align="center">An aspiring frontend developer and software engineer in the future from Philippines!</h3>
+<h3 align="center">An aspiring frontend developer and software engineer from Philippines!</h3>
 
 
 
