@@ -12,7 +12,6 @@
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 <p align="left"> <a href="https://twitter.com/aanthonytomass" target="blank"><img src="https://img.shields.io/twitter/follow/aanthonytomass?logo=twitter&style=for-the-badge" alt="aanthonytomass" /></a> </p>
 
-- 🔭 I’m currently working on [GameFi Capital](https://gameficapital.net/)
 
 - 🌱 I’m currently learning **C++, HTML, C, Java, C# & JavaScript**
 
