@@ -8,7 +8,7 @@
 
 <!--🐍💬SNAKETITLE / 🌐WEBSITE: https://textanim.com/ -->
 <p align="center">
-<p> Watch my Contribution Graph get eaten by Snake </p>
+<h3> Watch my Contribution Graph get eaten by Snake </h3>
 <!--🐍📈SNAKEGRAPH / 🌐WEBSITE: https://github.com/Platane/snk -->
 <img src="https://raw.githubusercontent.com/trinib/trinib/output/github-contribution-grid-snake.svg" width="100%">
 
