@@ -5,8 +5,11 @@
 <img align="center" src="https://readme-jokes.vercel.app/api?bgColor=%23073b4c&textColor=%2306d6a0&aColor=%2306d6a0&borderColor=%2306d6a0" alt="README Jokes">
 </div>
 
-### WATCH MY CONTRIBUTION GRID EATEN BY SNAKE
-![snake gif](https://raw.githubusercontent.com/akshaynarisetti/akshaynarisetti/output/github-contribution-grid-snake.svg)
+<!--🐍💬SNAKETITLE / 🌐WEBSITE: https://textanim.com/ -->
+<p align="center">
+<img src="https://i.imgur.com/x1KbuCq.gif" width="500">
+<!--🐍📈SNAKEGRAPH / 🌐WEBSITE: https://github.com/Platane/snk -->
+<img src="https://raw.githubusercontent.com/trinib/trinib/output/github-contribution-grid-snake.svg" width="100%">
 
 <a><h2>Stats</h2></a>
 <div>
