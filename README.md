@@ -35,7 +35,7 @@
 
  
   
-### Profile Views
+### Profile Views Count
 
 ![](https://count.getloli.com/get/@aanthonytomas.github.readme)
 </br>
