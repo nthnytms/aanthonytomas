@@ -1,4 +1,6 @@
-<h1>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Aspiring Software Engineer and Full Stack Developer </h1> 
+# 🏄‍♂️ A A N T H O N Y T O M A S
+
+**`Digital Craftsman (Computer Science Student/ Aspring Software Engineer & Full Stack Developer)`**
 
 <div align="center"> 
 <i>Random dev joke for you!</i></br></br>
