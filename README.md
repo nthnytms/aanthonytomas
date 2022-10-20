@@ -35,7 +35,7 @@ I'm Computer Science student from Philippines, building my version of the digita
 <!--🐍💬SNAKETITLE / 🌐WEBSITE: https://textanim.com/ -->
 <p align="center">
 	
-### 📈 Watch my Contribution Graph get eaten by Snake
+### 
 	
 <!--🐍📈SNAKEGRAPH / 🌐WEBSITE: https://github.com/Platane/snk -->
 <img src="https://raw.githubusercontent.com/trinib/trinib/output/github-contribution-grid-snake.svg" width="100%">
