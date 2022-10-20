@@ -35,7 +35,7 @@ I'm Computer Science student from Philippines, building my version of the digita
 <!--🐍💬SNAKETITLE / 🌐WEBSITE: https://textanim.com/ -->
 <p align="center">
 	
-### 🐍 Watch my Contribution Graph get eaten by Snake
+### 📈 Watch my Contribution Graph get eaten by Snake
 	
 <!--🐍📈SNAKEGRAPH / 🌐WEBSITE: https://github.com/Platane/snk -->
 <img src="https://raw.githubusercontent.com/trinib/trinib/output/github-contribution-grid-snake.svg" width="100%">
@@ -77,11 +77,13 @@ I'm Computer Science student from Philippines, building my version of the digita
 
 #
 	
-<div>
+
+	
 ### 🏆 Trophies
+	
     <a href="https://github.com/ryo-ma/github-profile-trophy">
         <img width="98%" alt="Trophy" src="https://github-profile-trophy.vercel.app/?username=aanthonytomas&row=4&theme=onedark&no-frame=true"/>
-</div>
+
 
 
 </br>
