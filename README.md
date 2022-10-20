@@ -2,7 +2,7 @@
 
 **`Digital Craftsman (Aspiring Software Engineer/Full Stack Developer)`**
 
-<h6><align="justify">I'm Computer Science Student and building my version of the digital world one step at a time. All coding projects are built from the ground up, from planning and designing all the way to solving real-life problems with code. All of the information and code I've learned through internet helps me to develop my skills. I'm also planning to do blogs and share some knowledge about my coding journey which may help you.</h6>
+<p><align="justify">I'm Computer Science Student and building my version of the digital world one step at a time. All coding projects are built from the ground up, from planning and designing all the way to solving real-life problems with code. All of the information and code I've learned through internet helps me to develop my skills. I'm also planning to do blogs and share some knowledge about my coding journey which may help you.</p>
 
 ---
 
