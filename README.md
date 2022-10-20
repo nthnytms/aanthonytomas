@@ -1,6 +1,6 @@
-# 🏄‍♂️ A A N T H O N Y T O M A S
+# 🏄‍♂️ Aanthonytomas
 
-**`Digital Craftsman (Computer Science Student/ Aspring Software Engineer & Full Stack Developer)`**
+**`Digital Craftsman (Aspring Software Engineer/Full Stack Developer)`**
 
 ---
 
