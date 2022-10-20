@@ -13,7 +13,7 @@ I'm Computer Science student from Philippines, building my version of the digita
 
 ---
 
-### 🧰 Languages and Tools
+### Languages and Tools
 
 <img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
 <img align="left" alt="Angular" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-plain.svg" />
@@ -42,7 +42,7 @@ I'm Computer Science student from Philippines, building my version of the digita
 
 #	
 	
-### 📊 Stats
+### Stats
 <div>
     <a href="https://github-readme-stats.vercel.app">
         <img width="49%" alt="Stats" src="https://github-readme-stats.vercel.app/api?&count_private=true&include_all_commits=true&username=aanthonytomas&theme=shades-of-purple&custom_title=GitHub+Stats&hide_border=true"/>
@@ -66,7 +66,7 @@ I'm Computer Science student from Philippines, building my version of the digita
 
  
   
-### 👀 Profile Views Count
+### Profile Views Count
 
 ![](https://count.getloli.com/get/@aanthonytomas.github.readme)
 </br>
@@ -79,7 +79,7 @@ I'm Computer Science student from Philippines, building my version of the digita
 	
 
 	
-### 🏆 Trophies
+### Trophies
 <div>	
     <a href="https://github.com/ryo-ma/github-profile-trophy">
         <img width="98%" alt="Trophy" src="https://github-profile-trophy.vercel.app/?username=aanthonytomas&row=4&theme=onedark&no-frame=true"/>
@@ -93,7 +93,7 @@ I'm Computer Science student from Philippines, building my version of the digita
 #
 
 
-### 🔗 Connect with me 
+### Connect with me 
 <p align="center">
 	<a href="https://github.com/aanthonytomas"><img src="https://user-images.githubusercontent.com/58532023/171219272-a68dd897-a9c7-4826-b7e6-10ef84e6a0a8.png" alt="GitHub"/></a>
 	<a href="https://www.linkedin.com/in/aanthonytomas/"><img src="https://user-images.githubusercontent.com/58532023/171219303-8839f911-21bf-453f-b517-9dd6ef9a873c.png" alt="LinkedIn"/></a>
