@@ -31,10 +31,12 @@
 
 <!--🐍💬SNAKETITLE / 🌐WEBSITE: https://textanim.com/ -->
 <p align="center">
-<a><h2> Watch my Contribution Graph get eaten by Snake </h2></a>
+### Watch my Contribution Graph get eaten by Snake
 <!--🐍📈SNAKEGRAPH / 🌐WEBSITE: https://github.com/Platane/snk -->
 <img src="https://raw.githubusercontent.com/trinib/trinib/output/github-contribution-grid-snake.svg" width="100%">
 
+#	
+	
 ### Stats
 <div>
     <a href="https://github-readme-stats.vercel.app">
@@ -52,6 +54,7 @@
   
  </br>
 
+#
   
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=aanthonytomas&theme=react-dark&custom_title=My%20Contributions%20Graph%20is%20like%20a%20Rollercoster%20Ride&bg_color=3333cc&color=ffffff&line=ffffff&point=ffffff&area=true&hide_border=true)  
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
