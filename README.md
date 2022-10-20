@@ -40,7 +40,9 @@ I'm Computer Science student and building my version of the digital world one st
 
 <!--🐍💬SNAKETITLE / 🌐WEBSITE: https://textanim.com/ -->
 <p align="center">
+	
 ### Watch my Contribution Graph get eaten by Snake
+	
 <!--🐍📈SNAKEGRAPH / 🌐WEBSITE: https://github.com/Platane/snk -->
 <img src="https://raw.githubusercontent.com/trinib/trinib/output/github-contribution-grid-snake.svg" width="100%">
 
