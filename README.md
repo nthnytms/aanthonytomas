@@ -1,4 +1,4 @@
-# 🏄‍♂️ Aanthonytomas
+# 👨‍💻 Aanthonytomas
 
 **`Digital Craftsman (Aspiring Software Engineer/Full Stack Developer)`**
 
