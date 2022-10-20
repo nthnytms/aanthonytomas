@@ -30,8 +30,7 @@ I'm Computer Science student from Philippines, building my version of the digita
 
 <br />
 
-
-
+#
 
 <!--🐍💬SNAKETITLE / 🌐WEBSITE: https://textanim.com/ -->
 <p align="center">
