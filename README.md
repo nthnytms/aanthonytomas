@@ -75,11 +75,6 @@ I'm Computer Science student from Philippines, building my version of the digita
         <img width="98%" alt="Trophy" src="https://github-profile-trophy.vercel.app/?username=aanthonytomas&row=4&theme=onedark&no-frame=true"/>
 	    </div>
 
-
-</br>
-</br>
-</br>
-
 #
 
 
