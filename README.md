@@ -78,8 +78,9 @@ I'm Computer Science student from Philippines, building my version of the digita
 #
 
 
-	<h2>	<center> Connect with me  </center> </h2>
+	
 <p align="center">
+	<h2>Connect with me  </h2>
 <br>
 <br>
 <br>
