@@ -77,10 +77,10 @@ I'm Computer Science student from Philippines, building my version of the digita
 
 #
 
-
+### Connect with me
 	
 <p align="center">
-	<h2>Connect with me  </h2>
+
 <br>
 <br>
 <br>
