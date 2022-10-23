@@ -11,7 +11,7 @@ I'm Computer Science student from Philippines, building my version of the digita
          <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/aanthonytomas?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
    </p>
 
----
+--- 
 
 ### Languages and Tools
 
