@@ -79,9 +79,9 @@ I'm Computer Science student from Philippines, building my version of the digita
 
 ### Connect with me  
 
-	<br>
-	<br>
-	<br>
+	<br> </br>
+	<br> </br>
+	<br> </br>
 	
 	
 <p align="center">
