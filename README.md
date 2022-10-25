@@ -85,7 +85,6 @@ I'm Computer Science student from Philippines, building my version of the digita
 <br>
 <br>
 
-<div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="dark" data-type="VERTICAL" data-vanity="aanthonytomas" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://ph.linkedin.com/in/aanthonytomas?trk=profile-badge">Mark Anthony Tomas</a></div>
 
 	<a href="https://github.com/aanthonytomas"><img src="https://user-images.githubusercontent.com/58532023/171219272-a68dd897-a9c7-4826-b7e6-10ef84e6a0a8.png" alt="GitHub"/></a>
 	<a href="https://www.linkedin.com/in/aanthonytomas/"><img src="https://user-images.githubusercontent.com/58532023/171219303-8839f911-21bf-453f-b517-9dd6ef9a873c.png" alt="LinkedIn"/></a>
@@ -93,7 +92,7 @@ I'm Computer Science student from Philippines, building my version of the digita
 	<a href="https://twitter.com/aanthonytomas"><img src="https://user-images.githubusercontent.com/58532023/171218519-2ccc030a-72b5-45ea-a2ec-7f1dfbef917f.png" alt="Twitter"/></a>
 </p>
 
-
+<div>
 	<br>
 	</div>
 
