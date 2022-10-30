@@ -30,7 +30,7 @@ I'm Computer Science student from Philippines, building my version of the digita
 
 <br />
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+#
 
 <!--🐍💬SNAKETITLE / 🌐WEBSITE: https://textanim.com/ -->
 <p align="center">
@@ -40,7 +40,7 @@ I'm Computer Science student from Philippines, building my version of the digita
 <!--🐍📈SNAKEGRAPH / 🌐WEBSITE: https://github.com/Platane/snk -->
 <img src="https://raw.githubusercontent.com/trinib/trinib/output/github-contribution-grid-snake.svg" width="100%">
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">	
+#	
 	
 ### Stats
 <div>
@@ -54,18 +54,17 @@ I'm Computer Science student from Philippines, building my version of the digita
   </br>
 
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+#
   
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=aanthonytomas&theme=react-dark&custom_title=My%20Contributions%20Graph%20is%20like%20a%20Rollercoster%20Ride&bg_color=3333cc&color=ffffff&line=ffffff&point=ffffff&area=true&hide_border=true)  
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+#
   
 ### Profile Views Count 
 
 ![](https://count.getloli.com/get/@aanthonytomas.github.readme)
 </br>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+#
 	
 ### Trophies
 <div>	
@@ -73,7 +72,7 @@ I'm Computer Science student from Philippines, building my version of the digita
         <img width="98%" alt="Trophy" src="https://github-profile-trophy.vercel.app/?username=aanthonytomas&row=4&theme=onedark&no-frame=true"/>
 	    </div>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+#
 <br>
 	
 ### Connect with me  
