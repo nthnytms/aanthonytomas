@@ -51,8 +51,6 @@ I'm Computer Science student from Philippines, building my version of the digita
         <img width="49%" alt="Streak Stats" src="https://github-readme-streak-stats.herokuapp.com/?user=aanthonytomas&theme=shades-of-purple&hide_border=true"/>
     </a>
   </div>
-  </br>
-
 
 #
   
