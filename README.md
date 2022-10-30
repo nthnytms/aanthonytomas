@@ -30,7 +30,7 @@ I'm Computer Science student from Philippines, building my version of the digita
 
 <br />
 
-#
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <!--🐍💬SNAKETITLE / 🌐WEBSITE: https://textanim.com/ -->
 <p align="center">
@@ -40,7 +40,7 @@ I'm Computer Science student from Philippines, building my version of the digita
 <!--🐍📈SNAKEGRAPH / 🌐WEBSITE: https://github.com/Platane/snk -->
 <img src="https://raw.githubusercontent.com/trinib/trinib/output/github-contribution-grid-snake.svg" width="100%">
 
-#	
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">	
 	
 ### Stats
 <div>
@@ -75,7 +75,7 @@ I'm Computer Science student from Philippines, building my version of the digita
         <img width="98%" alt="Trophy" src="https://github-profile-trophy.vercel.app/?username=aanthonytomas&row=4&theme=onedark&no-frame=true"/>
 	    </div>
 
-#
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ### Connect with me  
 
